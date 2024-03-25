@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #223a70;
+      }
+    </style>
+  </defs>
+  <g id="icon-contact" transform="translate(-1534 -20)">
+    <rect id="長方形_12" data-name="長方形 12" class="cls-1" width="80" height="80" transform="translate(1534 20)"/>
+    <path id="icon-contact-2" data-name="icon-contact" class="cls-2" d="M64,0H8A8.024,8.024,0,0,0,0,8V44a8.024,8.024,0,0,0,8,8H64a8.024,8.024,0,0,0,8-8V8A8.024,8.024,0,0,0,64,0Zm0,4a4.776,4.776,0,0,1,1.8.4L40.2,30.2A5.756,5.756,0,0,1,36,32a5.447,5.447,0,0,1-4.2-1.8L6.2,4.4A4.776,4.776,0,0,1,8,4Zm4,40a4.012,4.012,0,0,1-4,4H8a4.012,4.012,0,0,1-4-4V8L29,33a10.046,10.046,0,0,0,7,3,9.7,9.7,0,0,0,7-3L68,8Z" transform="translate(1538 34)"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #223a70;
+      }
+    </style>
+  </defs>
+  <g id="icon-access" transform="translate(12 4)">
+    <rect id="長方形_37" data-name="長方形 37" class="cls-1" width="80" height="80" transform="translate(-12 -4)"/>
+    <path id="パス_13" data-name="パス 13" class="cls-2" d="M20,32A12,12,0,1,1,32,20,12.035,12.035,0,0,1,20,32Zm0-20a8,8,0,1,0,8,8A8.024,8.024,0,0,0,20,12Z" transform="translate(7.802 8)"/>
+    <path id="パス_14" data-name="パス 14" class="cls-2" d="M27.9,72a7.263,7.263,0,0,1-5.6-2.4C12.5,59.8,1.1,43.8.1,30h0V28A27.784,27.784,0,0,1,27.9,0a28.082,28.082,0,0,1,28,28v2h-.2c-1,13.8-12.4,29.8-22.2,39.6h0A7.263,7.263,0,0,1,27.9,72ZM3.9,26.8V28c0,13,11.4,29,21,38.8a3.865,3.865,0,0,0,5.6,0h0C40.5,57,51.9,41,51.9,28V26a24.061,24.061,0,0,0-48,.8Z" transform="translate(-0.099)"/>
+  </g>
+</svg>

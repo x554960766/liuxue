@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #223a70;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="icon-estimate" transform="translate(10 4)">
+    <path id="パス_7" data-name="パス 7" class="cls-1" d="M52,4a4.012,4.012,0,0,1,4,4V64a4.012,4.012,0,0,1-4,4H8a4.012,4.012,0,0,1-4-4V8A4.012,4.012,0,0,1,8,4H52m0-4H8A8.024,8.024,0,0,0,0,8V64a8.024,8.024,0,0,0,8,8H52a8.024,8.024,0,0,0,8-8V8a8.024,8.024,0,0,0-8-8Z"/>
+    <path id="パス_8" data-name="パス 8" class="cls-1" d="M43,9H7a1.89,1.89,0,0,0-2,2,1.89,1.89,0,0,0,2,2H43a2,2,0,0,0,0-4Z" transform="translate(5 9)"/>
+    <path id="パス_9" data-name="パス 9" class="cls-1" d="M43,17H7a1.89,1.89,0,0,0-2,2,1.89,1.89,0,0,0,2,2H43a2,2,0,0,0,0-4Z" transform="translate(5 17)"/>
+    <path id="パス_10" data-name="パス 10" class="cls-1" d="M43,25H7a2,2,0,0,0,0,4H43a2,2,0,0,0,0-4Z" transform="translate(5 25)"/>
+    <rect id="長方形_13" data-name="長方形 13" class="cls-2" width="80" height="80" transform="translate(-10 -4)"/>
+  </g>
+</svg>
